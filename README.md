@@ -1,6 +1,6 @@
 # LiquidBounce+ Reborn(Unofficial)
 
-# DEAD
+# DEAD1
 new open src client
 https://github.com/randomguy3725/MoonLight-public
 
